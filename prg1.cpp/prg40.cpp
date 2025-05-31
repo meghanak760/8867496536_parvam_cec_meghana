@@ -3,7 +3,7 @@
 using namespace std;
 class Calculator {
 public:
-    int add(int a, int b); // Function declaration
+    int add(int a, int b);
 };
 int Calculator::add(int a, int b) {
     return a + b;

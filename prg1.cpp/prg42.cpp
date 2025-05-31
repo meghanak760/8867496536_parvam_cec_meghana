@@ -10,7 +10,7 @@ public:
     }
 
     float calculateArea() {
-        return 3.14 * radius * radius; // Using 3.14 as an approximation for π
+        return 3.14 * radius * radius;
     }
 };
 int main() {

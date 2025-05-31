@@ -19,4 +19,4 @@ int main() {
     Derived obj(42);
     obj.display();
     return 0;
-}
+} 
